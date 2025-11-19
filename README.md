@@ -77,3 +77,17 @@ D - Переместить плитку **ВПРАВО**
     - Обработка ввода (get_direction) и перемещение плиток (move_tile).
     - Проверка условия победы (is_solved).
     - Логика доступных ходов (get_available_moves).
+
+
+<img width="990" height="417" alt="image" src="https://github.com/user-attachments/assets/ef7c2c0e-1e1f-4a4c-aad0-b5445f8c7b5e" />
+<img width="750" height="554" alt="image" src="https://github.com/user-attachments/assets/7e941f46-acdc-42f3-8efe-6d3483ff9f70" />
+<img width="544" height="524" alt="image" src="https://github.com/user-attachments/assets/cb564456-a0dc-44e0-9271-7b8c311975b6" />
+<img width="612" height="537" alt="image" src="https://github.com/user-attachments/assets/72633f47-8faa-4918-bd6a-2f7ad9453d03" />
+<img width="498" height="437" alt="image" src="https://github.com/user-attachments/assets/2836ca56-8787-4ae1-a4d7-d1ae81b01708" />
+<img width="507" height="415" alt="image" src="https://github.com/user-attachments/assets/03a4846b-0ada-462e-a980-7ce0fe2f8e8d" />
+<img width="543" height="441" alt="image" src="https://github.com/user-attachments/assets/8a9e3cab-0795-4377-9476-16b2712ff5fd" />
+
+
+
+
+
